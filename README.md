@@ -1,4 +1,4 @@
-# Coursers
+# Coursers: Open Project
 
 Daniel Zeng, Muchang Bahng, Abhishek Chataut, Alice Hu, Jasper Hu 
 
