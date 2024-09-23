@@ -1,12 +1,36 @@
-# Coursers: Open Project
+# Course Compass : Open Project
 
-Daniel Zeng, Muchang Bahng, Abhishek Chataut, Alice Hu, Jasper Hu 
+## Team Members
+- **Muchang Bahng** (mb625)
+- **Alice Hu** (yh353)
+- **Abhishek Chataut** (ac802)
+- **Jasper Hu** (wh169)
+- **Daniel Zeng** (dz115)
 
-## Progress Report 
+## Project Option
+We chose the **Open Project Option** and are building a **Duke University Course Dependency and Recommendation System**.
 
-### Sep 23, 2024
+## Team Name
+**Course Compass**
 
-Muchang looked through course websites to possible ways we can webscrape the relevent data.   
-Abhishek and Daniel found and used a Duke API that allows us to retrieve a subset of the relevant data we need. 
-Jasper and Alice brainstormed additional functionalities of our platform and how we can get sufficient interaction with the DBMS, in particular updating the database. 
+## Summary of Progress Since Last Milestone
 
+### Muchang Bahng (mb625)
+- Scraped course data from DukeHub and the Duke course catalog using Python web scrapers.
+
+### Alice Hu (yh353)
+- Set up the React frontend, Flask backend and Dockerfiles
+
+### Abhishek Chataut (ac802)
+- Scraped course data from DukeHub and the Duke course catalog using Python web scrapers.
+
+### Jasper Hu (wh169)
+- Set up the React.js frontend and implemented the user interface for viewing course dependencies.
+
+### Daniel Zeng (dz115)
+- Added updates to Milestone report
+
+## GitHub Repository Link
+[Course Compass GitHub Repository](https://github.com/)
+
+Feel free to clone and explore the repository for the latest updates and documentation!
