@@ -8,6 +8,9 @@ WORKDIR /app
 COPY package.json ./
 RUN npm install
 
+RUN npm install mermaid
+
+
 # Copy the entire app to the container
 COPY . .
 
