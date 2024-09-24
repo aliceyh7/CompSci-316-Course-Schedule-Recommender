@@ -22,7 +22,7 @@ We chose the **Open Project Option** and are building a **Duke University Course
 - Set up the React frontend, Flask backend and Dockerfiles
 
 ### Abhishek Chataut (ac802)
-- Scraped course data from DukeHub and the Duke course catalog using Python web scrapers.
+- Looked into using the Duke API to get the course data and how to use it in our database.
 
 ### Jasper Hu (wh169)
 - Set up the React.js frontend and implemented the user interface for viewing course dependencies.
